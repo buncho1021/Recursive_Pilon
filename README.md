@@ -1,5 +1,5 @@
 # Recursive_Pilon
-**Pilonを使用したpolishingを再帰的に行うスクリプト**
+**Pilonを使用したpolishingを再帰的に15回行うスクリプト**
 ## installation
 ```
 $ pip install -r requirements.txt
