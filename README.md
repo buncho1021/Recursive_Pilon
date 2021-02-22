@@ -17,7 +17,6 @@ $ . Recur_Pilon.sh FASTA_file FASTQ_file1 FASTQ_file2
 ## Update予定
 - thread数と再帰回数を指定可能にする(option化)
 - 再帰回数を自動指定にする(polish箇所がなくなるまで再帰的に処理させる)
-- もっとコードをキレイにする
 
 ## 参考
 - Pilon公式サイト  
