@@ -18,7 +18,7 @@ $ . Recur_Pilon.sh FASTA_file FASTQ_file1 FASTQ_file2
 - 再帰回数を自動指定にする(polish箇所がなくなるまで再帰的に処理させる)
 
 ## 参考
-Pilon公式サイト  
+- Pilon公式サイト  
 http://software.broadinstitute.org/software/pilon/  
-上坂一馬さんのサイト  
+- 上坂一馬さんのサイト  
 http://kazumaxneo.hatenablog.com/entry/2017/10/01/222036 
