@@ -5,7 +5,8 @@
 #pilon==1.23をダウンロード（2019 3/3時点最新）
 $ wget https://github.com/broadinstitute/pilon/releases/download/v1.23/pilon-1.23.jar
 
-$ chmod u+x pilon-1.23.jar #実行権を付与
+#実行権を付与
+$ chmod u+x pilon-1.23.jar
 
 $ pip install -r requirements.txt #condaでのinstallも可
 ```
