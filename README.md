@@ -6,5 +6,5 @@ $ pip install -r requirements.txt
 ```
 ## Usage
 ```
-$ 
+$ . Recur_Pilon.sh 
 ```
